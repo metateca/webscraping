@@ -1,2 +1,2 @@
-# webscraping
-Scrape price of cryptos from livecoinwatch.com and save it to JSON.
+# trendscalpingplatform
+Protocol to support the maintenance and development of the Casset.org platform, which facilitates the negotiation of a set of 286 assets.
